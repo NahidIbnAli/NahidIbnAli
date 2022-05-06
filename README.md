@@ -1,5 +1,4 @@
 ### Hi there 👋, Nahid Ibn Ali
-#### Web Developer
-A Passionate Web Developer.
+I'm gonna be a developer. InShaAllah
 
-Skills: HTML / CSS / Bootstrap
+Skills: HTML / CSS / JavaScript / Bootstrap 5 / WordPress
