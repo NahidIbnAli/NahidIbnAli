@@ -1,13 +1,15 @@
-<a href="#"><img width="100%" src="https://raw.githubusercontent.com/NahidIbnAli/for-hosting/cde31ae7c546f4be6222419418d637d4c255a430/Developer%20activity-bro.svg" height="400px"/></a>
+<a href="#"><img width="100%" src="https://raw.githubusercontent.com/NahidIbnAli/for-hosting/bf786ea6e9d123659b8a71d64779b4197f7eb79b/Developer%20activity-bro.svg" height="400px"/></a>
 
 <h3 align="center">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Nahid Ibn Ali </h3>
 
 ### 📖 About me
 
-I am a enthusiastic Web Developer. I am working with HTML, CSS, JavaSript, bootstrap and jQuery. I believe in hard work and efficiency. That's why I am always ready to accomplish any task by working hard. I always focus on learning new technology. My goal is to become A World-Class Professional Web Developer.
+I am a enthusiastic Web Developer. I am working with HTML, CSS, JavaSript and bootstrap. I believe in hard work and efficiency. That's why I am always ready to accomplish any task by working hard. I always focus on learning new technology. My goal is to become A World-Class Professional Web Developer.
 
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/nahid-ibn-ali-a51499220/)
 [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/NahidIbnAli/)
+
+- 🌐 My portfolio site is coming soon ..
 
 ## 💻 Languages and Tools:
 
@@ -21,4 +23,9 @@ I am a enthusiastic Web Developer. I am working with HTML, CSS, JavaSript, boots
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=000000&labelColor=ffffff)
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&labelColor=007ACC)
 ![NPM](https://img.shields.io/badge/-npm-000000?style=flat&logo=npm&labelColor=ffffff)
+![Figma](https://img.shields.io/badge/-Figma-000000?style=flat&logo=figma&labelColor=000000)
 ![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=windows&logoColor=ffffff&labelColor=0078D6)
+
+<img src="https://github-readme-stats.vercel.app/api?username=NahidIbnAli&&show_icons=true&title_color=ffffff&icon_color=7E57C2&text_color=daf7dc&bg_color=151515">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NahidIbnAli&card_width=500&&show_icons=true&title_color=ffffff&icon_color=7E57C2&text_color=daf7dc&bg_color=151515">
