@@ -41,6 +41,8 @@ I am a enthusiastic Web Developer from Bangladesh. Right now I am learing MERN-S
 &nbsp;
 <span><img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3" alt="Bootstrap logo" title="Bootstrap" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/ESLint-282C34?logo=eslint&logoColor=4B32C3" alt="ESLint logo" title="ESLint" height="25" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
@@ -51,11 +53,10 @@ I am a enthusiastic Web Developer from Bangladesh. Right now I am learing MERN-S
 &nbsp;
 
 <br>
-<div align=center>
   <a href="#" title="NahidIbnAli">
-    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NahidIbnAli&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    <img width="434" src="https://github-readme-stats.vercel.app/api?username=NahidIbnAli&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
+
   <a href="#" title="NahidIbnAli">
-    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=NahidIbnAli&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    <img width="315"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=NahidIbnAli&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   </a>
-</div>
