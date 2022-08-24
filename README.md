@@ -4,7 +4,7 @@
 
 ### 📖 About me
 
-I am a enthusiastic Web Developer from Bangladesh. Right now I am learing MERN-Stack.
+I am a enthusiastic Web Developer from Bangladesh. Right now I am learing MERN-Stack. My goal is to become A World-Class Professional Web Developer.
 
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/nahid-ibn-ali-a51499220/)
 [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/NahidIbnAli/)
