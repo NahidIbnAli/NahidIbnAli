@@ -4,7 +4,7 @@
 
 ### 📖 About me
 
-I am a enthusiastic Web Developer. I am working with HTML, CSS, JavaSript and bootstrap. I believe in hard work and efficiency. That's why I am always ready to accomplish any task by working hard. I always focus on learning new technology. My goal is to become A World-Class Professional Web Developer.
+I am a enthusiastic Web Developer from Bangladesh. Right now I am learing MERN-Stack.
 
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/nahid-ibn-ali-a51499220/)
 [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/NahidIbnAli/)
