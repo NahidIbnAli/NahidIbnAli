@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" src="https://raw.githubusercontent.com/NahidIbnAli/assets/dea05513a4381dfc4ea23965a0594cae1d8df6ec/developer-activity-animate.svg?token=AVTSZN4S6FQ4TXG2IABR4M3DA3MHS" height="400px"/></a>
+<a href="#"><img width="100%" src="https://raw.githubusercontent.com/NahidIbnAli/assets/db3b12b6a95d2e2843089edf8679b43a26ca043e/Developer%20activity.svg?token=AVTSZN7LSMAKAEBR4MLR2MTDA3M5A" height="400px"/></a>
 
 <h3 align="center">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Nahid Ibn Ali </h3>
 
