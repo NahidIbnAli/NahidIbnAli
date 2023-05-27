@@ -53,7 +53,7 @@ I am a MERN-Stack WEB Developer. I am working with React, Node.js and MongoDB. I
 &nbsp;
 
 <br>
-  <a href="#" style="display: block, margin: auto" title="NahidIbnAli">
+  <a href="#" title="NahidIbnAli">
     <img width="434" src="https://github-readme-stats.vercel.app/api?username=NahidIbnAli&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
 <br>
