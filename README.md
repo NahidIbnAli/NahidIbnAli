@@ -11,7 +11,7 @@ I am a MERN-Stack WEB Developer. I am working with React, Node.js and MongoDB. I
 [<span><img src="https://img.shields.io/badge/Follow-282C34?logo=Facebook&logoColor=1877F2" alt="Facebook logo" title="Facebook" height="25" /></span>](https://www.facebook.com/NahidIbnAli/)
 &nbsp;
 
-- 🌐 My portfolio site is coming soon ..
+- 🌐 Here is <a href="#" title="NahidIbnAli">My portfolio</a>
 
 ## 💻 Languages and Tools:
 
