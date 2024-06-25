@@ -4,7 +4,7 @@
 
 ### 📖 About me
 
-I am a MERN-Stack WEB Developer. I am working with React, Node.js and MongoDB. I also have experience in developing static websites using HTML5, CSS3 and JavaScript (ES6). I am a quick learner. I believe in hard work and efficiency. That's why I am always ready to accomplish any task by working hard. I am always eager to learn new technology. My goal is to become A World-Class Professional Web Developer.
+I am a Full-Stack Web Developer. I've been working with React, Next, Node.js, and MongoDB. I also have experience working with CMS (WordPress). I am a detail-oriented person who cares about all aspects of software.
 
 [<span><img src="https://img.shields.io/badge/Connect-282C34?logo=LinkedIn&logoColor=white" alt="LikedIn logo" title="LikedIn" height="25" /></span>](https://www.linkedin.com/in/nahid-ibn-ali-a51499220/)
 &nbsp;
