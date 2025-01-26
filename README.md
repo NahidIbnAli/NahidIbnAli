@@ -1,7 +1,5 @@
 <p align="center"><img src="https://git-profile-readme-banner.vercel.app/api/python?username=NahidIbnAli&txt=A%20full-stack%20Developer"></p>
 
-### 📖 About me
-
 I've been working with React, Next, Node.js, and MongoDB. I also have experience working with CMS (WordPress). I am a detail-oriented person who cares about all aspects of software.
 
 <h3 align="left">Connect with me:</h3>
