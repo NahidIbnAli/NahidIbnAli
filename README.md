@@ -2,14 +2,12 @@
 
 ### 📖 About me
 
-I am a Full-Stack Web Developer. I've been working with React, Next, Node.js, and MongoDB. I also have experience working with CMS (WordPress). I am a detail-oriented person who cares about all aspects of software.
+I've been working with React, Next, Node.js, and MongoDB. I also have experience working with CMS (WordPress). I am a detail-oriented person who cares about all aspects of software.
 
-[<span><img src="https://img.shields.io/badge/Connect-282C34?logo=LinkedIn&logoColor=white" alt="LikedIn logo" title="LikedIn" height="25" /></span>](https://www.linkedin.com/in/nahid-ibn-ali-a51499220/)
-&nbsp;
-[<span><img src="https://img.shields.io/badge/Follow-282C34?logo=Facebook&logoColor=1877F2" alt="Facebook logo" title="Facebook" height="25" /></span>](https://www.facebook.com/NahidIbnAli/)
-&nbsp;
-
-- 🌐 Here is <a href="https://nahidibnali.vercel.app/" title="NahidIbnAli">my portfolio</a>
+<h3 align="left">Connect with me:</h3>
+<a href="https://www.linkedin.com/in/nahidibnali/" target="blank" rel="nofollow"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/linked-in-alt.svg" alt="NahidIbnAli" height="30" width="40" /></a>
+  <a href="https://instagram.com/nahidibnali" target="blank" rel="nofollow"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/instagram.svg" alt="nahidibnali" height="30" width="40" /></a>
+  <a href="https://fb.com/NahidIbnAli" target="blank" rel="nofollow"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/facebook.svg" alt="NahidIbnAli" height="30" width="40" /></a>
 
 ## 💻 Languages and Tools:
 
