@@ -1,4 +1,4 @@
-<p align="center"><img src="https://git-profile-readme-banner.vercel.app/api/python?username=NahidIbnAli"></p>
+<p align="center"><img src="https://git-profile-readme-banner.vercel.app/api/python?username=NahidIbnAli&txt=A%20full-stack%20Developer"></p>
 
 ### 📖 About me
 
