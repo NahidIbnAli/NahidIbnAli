@@ -1,6 +1,4 @@
-<a href="#"><img width="100%" src="https://raw.githubusercontent.com/NahidIbnAli/assets/db3b12b6a95d2e2843089edf8679b43a26ca043e/Developer%20activity.svg?token=AVTSZNZVSYQXRTENMZHCPGTDA3QRE" height="400px"/></a>
-
-<h3 align="center">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Nahid Ibn Ali </h3>
+<p align="center"><img src="https://git-profile-readme-banner.vercel.app/api/python?username=NahidIbnAli"></p>
 
 ### 📖 About me
 
