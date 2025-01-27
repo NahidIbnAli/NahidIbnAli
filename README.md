@@ -1,6 +1,6 @@
 <p align="center"><img src="https://git-profile-readme-banner.vercel.app/api/python?username=NahidIbnAli&txt=A%20full-stack%20Developer"></p>
 
-I've been working with React, Next, Node.js, and MongoDB. I also have experience working with CMS (WordPress). I am a detail-oriented person who cares about all aspects of software.
+Passionate MERN stack developer specializing in React and Node.js. Experienced in Next.js and TypeScript, with a strong ability to build dynamic, scalable web applications focused on performance, user experience, and seamless functionality. Proficient in working with CMS platforms (WordPress) to deliver tailored content solutions. Enthusiastic and driven developer committed to continuous learning and achieving excellence in the ever-evolving tech landscape.
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/nahidibnali/" target="blank" rel="nofollow"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/linked-in-alt.svg" alt="NahidIbnAli" height="30" width="40" /></a>
