@@ -2,18 +2,9 @@
 
 Passionate MERN stack developer specializing in React and Node.js. Experienced in Next.js and TypeScript, with a strong ability to build dynamic, scalable web applications focused on performance, user experience, and seamless functionality. Proficient in working with CMS platforms (WordPress) to deliver tailored content solutions. Enthusiastic and driven developer committed to continuous learning and achieving excellence in the ever-evolving tech landscape.
 
-<h3 align="left">Connect with me:</h3>
-<a href="https://x.com/nahidibnali_" target="_blank" rel="nofollow">
-  <img
-    align="center"
-    src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/twitter.svg"
-    alt="NahidIbnAli"
-    height="30"
-  />
-</a>
-<a href="https://www.linkedin.com/in/nahidibnali/" target="blank" rel="nofollow"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/linked-in-alt.svg" alt="NahidIbnAli" height="30" width="40" /></a>
-  <a href="https://instagram.com/nahidibnali" target="blank" rel="nofollow"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/instagram.svg" alt="nahidibnali" height="30" width="40" /></a>
-  <a href="https://fb.com/NahidIbnAli" target="blank" rel="nofollow"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/facebook.svg" alt="NahidIbnAli" height="30" width="40" /></a>
+[![X Follow](https://img.shields.io/badge/-Follow-black?logo=x)](https://x.com/nahidibnali_)
+[![LinkedIn Connect](https://custom-icon-badges.demolab.com/badge/-Connect-black?logo=linkedin-white)](https://www.linkedin.com/in/nahidibnali)
+[![Facebook Follow](https://img.shields.io/badge/-Follow-black?color=14171A&labelColor=1976d2&logo=facebook)](https://www.facebook.com/NahidIbnAli)
 
 <h3 align="left">Languages and Tools:</h3>
 
