@@ -1,15 +1,127 @@
-<p align="center"><img src="https://git-profile-readme-banner.vercel.app/api/python?username=NahidIbnAli&txt=A%20full-stack%20Developer"></p>
+<div align="center">
 
-Passionate MERN stack developer specializing in React and Node.js. Experienced in Next.js and TypeScript, with a strong ability to build dynamic, scalable web applications focused on performance, user experience, and seamless functionality. Proficient in working with CMS platforms (WordPress) to deliver tailored content solutions. Enthusiastic and driven developer committed to continuous learning and achieving excellence in the ever-evolving tech landscape.
+```
+███╗   ██╗ █████╗ ██╗  ██╗██╗██████╗     ██╗██████╗ ███╗   ██╗     █████╗ ██╗     ██╗
+████╗  ██║██╔══██╗██║  ██║██║██╔══██╗    ██║██╔══██╗████╗  ██║    ██╔══██╗██║     ██║
+██╔██╗ ██║███████║███████║██║██║  ██║    ██║██████╔╝██╔██╗ ██║    ███████║██║     ██║
+██║╚██╗██║██╔══██║██╔══██║██║██║  ██║    ██║██╔══██╗██║╚██╗██║    ██╔══██║██║     ██║
+██║ ╚████║██║  ██║██║  ██║██║██████╔╝    ██║██████╔╝██║ ╚████║    ██║  ██║███████╗██║
+╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚═════╝     ╚═╝╚═════╝ ╚═╝  ╚═══╝    ╚═╝  ╚═╝╚══════╝╚═╝
+```
 
-[![X Follow](https://img.shields.io/badge/-Follow-black?logo=x)](https://x.com/nahidibnali_)
-[![LinkedIn Connect](https://custom-icon-badges.demolab.com/badge/-Connect-black?logo=linkedin-white)](https://www.linkedin.com/in/nahidibnali)
-[![Facebook Follow](https://img.shields.io/badge/-Follow-black?color=14171A&labelColor=1976d2&logo=facebook)](https://www.facebook.com/NahidIbnAli)
+### Full-Stack Developer · MERN Specialist · TypeScript Enthusiast
 
-<h3 align="left">Languages and Tools:</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+scalable+web+applications;React+%7C+Node.js+%7C+Next.js+%7C+TypeScript;Turning+ideas+into+digital+reality)](https://git.io/typing-svg)
 
-<!-- https://simpleicons.org/ -->
+<br/>
 
-<p align="left"> <a href="https://astro.build/" target="_blank" rel="nofollow"> <img src="https://www.svgrepo.com/show/373446/astro.svg" alt="astro" width="40" height="40"/>  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>  <a href="https://getbootstrap.com" target="_blank" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="40" height="40"/> <a href="https://www.w3schools.com/css/" target="_blank" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  <a href="https://expressjs.com" target="_blank" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
-<a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" rel="nofollow" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
- <a href="https://graphql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a>  <a href="https://www.w3.org/html/" target="_blank" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a rel="nofollow" href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="nofollow"> <img src="https://github.com/devicons/devicon/raw/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </a> <a href="https://reactjs.org/" target="_blank" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>  <a href="https://tailwindcss.com/" target="_blank" rel="nofollow"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="nofollow"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>  <a href="https://eslint.org/" target="_blank" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eslint/eslint-original-wordmark.svg" alt="eslint" width="40" height="40"/> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/373700/jest.svg" alt="jest" width="40" height="40"/> </a> <a href="https://mui.com/material-ui/" rel="nofollow" target="_blank"> <img src="https://camo.githubusercontent.com/2d207b0294721c57203fb9451bd14ef5ec0cf391790e4a2499cac1e7ed3bb9c9/68747470733a2f2f6d75692e636f6d2f7374617469632f6c6f676f2e737667" alt="materialui" width="40" height="40"/> </a> </p>
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/nahidibnali_)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nahidibnali)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/NahidIbnAli)
+
+</div>
+
+---
+
+## `$ whoami`
+
+```ts
+const nahid = {
+  name:       "Nahid Ibn Ali",
+  role:       "Full-Stack Developer",
+  focus:      ["MERN Stack", "Next.js", "TypeScript", "WordPress CMS"],
+  philosophy: "Write clean code. Ship fast. Learn always.",
+  currently:  "Building scalable, performant web applications",
+  available:  true,
+};
+```
+
+> Passionate about crafting **dynamic**, **scalable** web applications with a sharp focus on performance and user experience. Experienced with CMS platforms like WordPress to deliver tailored content solutions. Driven by continuous learning and a commitment to excellence.
+
+---
+
+## `$ ls -la ~/tech-stack`
+
+<div align="center">
+
+### ⚡ Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
+
+### 🎨 Styling
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🔧 Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+### 🛠️ DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+
+</div>
+
+---
+
+## `$ cat ~/github-stats.json`
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=NahidIbnAli&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NahidIbnAli&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+<br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=NahidIbnAli&theme=tokyonight&hide_border=true&background=0D1117)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## `$ git log --graph --oneline`
+
+```
+* Continuously shipping production-ready features
+* Improving performance and DX across projects
+* Learning: advanced system design & cloud architecture
+* Open to: collaborations, freelance & full-time roles
+```
+
+---
+
+<div align="center">
+
+### Let's build something great together
+
+[![Email](https://img.shields.io/badge/Reach_Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nahidibnali@gmail.com)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=NahidIbnAli&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS)
+
+<br/>
+
+```
+╔══════════════════════════════════════════╗
+║   "First, solve the problem.             ║
+║    Then, write the code."                ║
+║                        — John Johnson    ║
+╚══════════════════════════════════════════╝
+```
+
+</div>
